@@ -1,11 +1,11 @@
-Partit,Vots,Percentatge,color
-Junts per Catalunya,2274,34.60%,#EA3349
-CUP,210,3.19%,#FEF22B
-Ciutadans,680,10.35%,#E74715
-ERC,2329,35.43%,#FBBA45
-PSC,434,6.60%,#CC3B27
-Catalunya en Comú Podem,212,3.23%,#97336F
-PP,316,4.81%,#3593C1
-Altres,24,0.37%,lightgrey
-Nuls,47,0.72%,lightgrey
-Blanc,47,0.72%,lightgrey
+Partit,Vots,Percentatge,color,image
+Junts per Catalunya,2274,34.60%,#EA3349,https://i.imgur.com/v5uzoHL.jpg
+CUP,210,3.19%,#FEF22B,https://i.imgur.com/DTkZm3X.png
+Ciutadans,680,10.35%,#E74715,https://i.imgur.com/v78T61c.png
+ERC,2329,35.43%,#FBBA45,https://i.imgur.com/EgKMrBW.png
+PSC,434,6.60%,#CC3B27,https://i.imgur.com/AAqrxGK.png
+Catalunya en Comú Podem,212,3.23%,#97336F,https://i.imgur.com/4Z5Mn0L.png
+PP,316,4.81%,#3593C1,https://i.imgur.com/Jn2zB3X.jpg
+Altres,24,0.37%,lightgrey,
+Nuls,47,0.72%,lightgrey,
+Blanc,47,0.72%,lightgrey,
