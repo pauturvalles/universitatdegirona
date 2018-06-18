@@ -1,10 +1,10 @@
-Partit,Vots,Percentatge,color
-Democràcia i llibertat,938,17.64%,#242660
-PSC,1096,20.62%,#CC3B27
-ERC,1076,20.24%,#FBBA45
-PP,548,10.31%,#3593C1
-En Comú Podem,1118,21.03%,#97336F
-Ciutadans,253,4.76%,#E74715
-Altres,112,2.11%,lightgrey
-Nuls,94,1.77%,lightgrey
-Blanc,81,1.52%,lightgrey
+Partit,Vots,Percentatge,color,image
+Democràcia i llibertat,938,17.64%,#242660,https://image.ibb.co/cwdPCy/DiL.png
+PSC,1096,20.62%,#CC3B27,https://image.ibb.co/i3vRQJ/PSC.png
+ERC,1076,20.24%,#FBBA45,https://image.ibb.co/gKkRQJ/ERC.png
+PP,548,10.31%,#3593C1,https://image.ibb.co/mOmBsy/PP.jpg
+En Comú Podem,1118,21.03%,#97336F,https://image.ibb.co/nET2zd/ECP.png
+Ciutadans,253,4.76%,#E74715,https://image.ibb.co/gGbcXy/Cs.png
+Altres,112,2.11%,lightgrey,
+Nuls,94,1.77%,lightgrey,
+Blanc,81,1.52%,lightgrey,https://image.ibb.co/k0H6QJ/votenblanc.png
