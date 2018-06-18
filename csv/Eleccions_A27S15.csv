@@ -1,11 +1,11 @@
-Partit,Vots,Percentatge,color
-Junts Pel Sí,3734,61.98%,#50AD97
-CUP,367,6.09%,#FEF22B
-PSC,592,9.83%,#CC3B27
-PP,501,8.32%,#3593C1
-Ciutadans,253,4.20%,#E74715
-Catalunya Sí Que Es Pot,235,3.90%,#97336F
-Unió,124,2.06%,#1F3A74
-Altres,31,0.51%,lightgrey
-Nuls,83,1.38%,lightgrey
-Blanc,105,1.74%,lightgrey
+Partit,Vots,Percentatge,color,image
+Junts Pel Sí,3734,61.98%,#50AD97,https://preview.ibb.co/khgNzd/JxS.png
+CUP,367,6.09%,#FEF22B,https://image.ibb.co/gtJfkJ/CUP.png
+PSC,592,9.83%,#CC3B27,https://image.ibb.co/i3vRQJ/PSC.png
+PP,501,8.32%,#3593C1,https://image.ibb.co/mOmBsy/PP.jpg
+Ciutadans,253,4.20%,#E74715,https://image.ibb.co/gGbcXy/Cs.png
+Catalunya Sí Que Es Pot,235,3.90%,#97336F,https://image.ibb.co/mnGY5J/CSQEP.jpg
+Unió,124,2.06%,#1F3A74,https://image.ibb.co/kOa4Cy/Uni.png
+Altres,31,0.51%,lightgrey,https://image.ibb.co/h7AKed/Altres.png
+Nuls,83,1.38%,lightgrey,https://image.ibb.co/f2AKed/Nuls.png
+Blanc,105,1.74%,lightgrey,https://image.ibb.co/hhhXzd/Blanc.png
