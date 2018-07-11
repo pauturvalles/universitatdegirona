@@ -1,10 +1,10 @@
 Tipus,Capacitat,Número,color
-Hotels,180,3,#b4fff4
+Hotels,180,3,#55d2bf
 Apartaments Turístics,12,1,#1e4943
-Pensions,57,3,#93e0be
-Cases Arrossars,225,40,#8ec9c0
+Pensions,57,3,#55d2bf
+Cases Arrossars,225,40,#347f74
 Càmpings,1525,1,#55d2bf
-Cases Rurals,115,19,#6a968f
-Alberg de Joventut,120,1,#68ffe8
-HUTs Poble,456,139,#90ccc3
+Cases Rurals,115,19,#347f74
+Alberg de Joventut,120,1,#1e4943
+HUTs Poble,456,139,#1e4943
 HUTs Riumar,2552,409,#347f74
